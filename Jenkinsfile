@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Exceute_python') {
       steps {
-        echo 'Hello setp1 executed'
+        echo 'Hello setp1 executeddddddd'
       }
     }
   }
